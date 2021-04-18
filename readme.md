@@ -5,6 +5,8 @@
 bem vindo ao livro de loucuras do vogil:game_die:do
 
 - todas as **receitas** nao devem funcionar pois nada combina.
+- estrogonofe de frango
+- pave de carne
 
 
 
